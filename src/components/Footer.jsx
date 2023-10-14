@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer>
       <p>Created by:Kittu</p>
-      <p>Copyright:{year}</p>
+      <p>Copyright ⓒ {year}</p>
     </footer>
   );
 }
